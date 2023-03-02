@@ -6,3 +6,4 @@ dubbo:
     port: -1
   registry:
     address: zookeeper://${zookeeper.address:127.0.0.1}:2181
+  #为了测试git添加的代码
